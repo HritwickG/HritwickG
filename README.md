@@ -1,4 +1,4 @@
-Here's a draft for your GitHub profile README:
+
 
 ---
 
@@ -20,8 +20,8 @@ I'm a passionate developer with a keen interest in web development and data scie
 - Machine learning with Python
 
 ### 📫 How to Reach Me
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](#https://www.linkedin.com/in/hritwick-ghosh-764415212/)
+- [hritwick.ghosh@outlook.com](#hritwick.ghosh@outlook.com)
   
 ---
 
