@@ -21,8 +21,7 @@ I'm a passionate developer with a keen interest in web development and data scie
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/hritwick-ghosh-764415212/)
-- [hritwick.ghosh@outlook.com](hritwick.ghosh@outlook.com)
-  
+- [hritwick.ghosh@outlook.com]
 ---
 
 Customize it with your specific projects and contact links!
