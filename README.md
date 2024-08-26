@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hritwick Ghosh</h1>
 <h3 align="center">I'm a passionate developer with a keen interest in web development and data machine learning. I enjoy creating projects that solve real-world problems and constantly strive to improve my skills.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
